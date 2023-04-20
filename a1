@@ -1,0 +1,24 @@
+Today is beautiful day
+
+Amazon Reviews Dataset
+The Amazon Review dataset consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for learning how to train fastText for sentiment analysis. The size of the dataset is 493MB. 
+
+Get the data here.
+
+2| Enron Email Dataset
+The Enron Email Dataset contains email data from about 150 users who are mostly senior management of Enron organisation. The dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes) and contains a total of about 0.5M messages. 
+
+Get the data here.  
+
+3| Goodreads Book Reviews
+This dataset contains reviews from the Goodreads book review website along with a variety of attributes describing the items. It includes reviews, read, review actions, book attributes and other such. There are a total number of items including 1,561,465. 
+
+Get the data here.  
+
+4| IMDB Dataset 
+The IMDB dataset includes 50K movie reviews for natural language processing or text analytics. This is a dataset for binary sentiment classification, which includes a set of 25,000 highly polar movie reviews for training and 25,000 for testing. 
+
+Get the data here.
+
+5| MovieLens Latest Datasets
+This dataset is a collection of movies, its ratings, tag applications and the users. There are two sets of this data, which has been collected over a period of time. The small set includes 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users, and the large set includes 27,000,000 ratings and 1,100,000 tag applications applied to 58,000 movies by 280,000 users. The large set also includes tag genome data with 14 million relevance scores across 1,100 tags.
